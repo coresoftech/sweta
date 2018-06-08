@@ -1,0 +1,21 @@
+2018-06-08 16:06:06,992 INFO  [LogFactory] - The configuration file is successfully loaded
+2018-06-08 16:06:11,371 INFO  [LogFactory] - opening the browser....
+2018-06-08 16:06:22,064 INFO  [LogFactory] - ****************************************************************************************
+2018-06-08 16:06:22,064 INFO  [LogFactory] - Verify Valid Login
+2018-06-08 16:06:22,065 INFO  [LogFactory] - ****************************************************************************************
+2018-06-08 16:06:22,202 INFO  [LogFactory] -  Username... 
+2018-06-08 16:06:23,372 INFO  [LogFactory] - Password ... 
+2018-06-08 16:06:35,033 INFO  [LogFactory] - Clicked on Sign-In button... 
+2018-06-08 16:06:36,633 INFO  [LogFactory] - ----------- Reading Excel Test Data Sheet -----------------
+2018-06-08 16:06:36,633 INFO  [LogFactory] - ----------  Selectd sheet Name : Admin
+2018-06-08 16:06:36,633 INFO  [LogFactory] - ----------  Selectd  Preffered Language for test data : ENGLISH
+2018-06-08 16:06:37,644 INFO  [LogFactory] - ****************************************************************************************
+2018-06-08 16:06:37,644 INFO  [LogFactory] - verify Order Of Product Segment On Homepage
+2018-06-08 16:06:37,644 INFO  [LogFactory] - ****************************************************************************************
+2018-06-08 16:06:47,958 INFO  [LogFactory] - Dept name matching is :Finance
+2018-06-08 16:06:58,190 INFO  [LogFactory] - Dept name matching is :Finance
+2018-06-08 16:07:09,467 INFO  [LogFactory] - dept name contains active link
+2018-06-08 16:07:10,535 INFO  [LogFactory] - ****************************************************************************************
+2018-06-08 16:07:10,535 INFO  [LogFactory] - verify Order of Utility Links On Homepage
+2018-06-08 16:07:10,535 INFO  [LogFactory] - ****************************************************************************************
+2018-06-08 16:07:50,609 INFO  [LogFactory] - xxxxxxxxxxxxxxxxxxxxxx  -E---N---D-  xxxxxxxxxxxxxxxxxxxxxxx
